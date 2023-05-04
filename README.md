@@ -31,4 +31,5 @@ Gallery
   Visitors can view these images on the website, but not within the project itself.
 
 License
+
   The project is licensed under the MIT License. See LICENSE for more information.
